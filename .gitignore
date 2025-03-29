@@ -1,0 +1,19 @@
+# Dépendances
+node_modules/
+*/node_modules/
+
+# Fichiers de build
+*/dist/
+*/build/
+*.log
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers système
+.DS_Store
+Thumbs.db
